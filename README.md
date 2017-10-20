@@ -1,3 +1,3 @@
 # Monitor
 
-Go Application
+Go Application for monitoring a server
